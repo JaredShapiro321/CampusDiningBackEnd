@@ -13,7 +13,7 @@ let facilities = [];
 // 2nd Step -- Getting javascript of next pages
 
 try {
-  const jsonString = fs.readFileSync('./facilities.json');
+  const jsonString = fs.readFileSync('./data/facilities.json');
   facilities = JSON.parse(jsonString);
 } catch(err) {
   console.log(err);
@@ -72,7 +72,7 @@ function iterate() {
                     //console.log(facilities);
                     const jsonString = JSON.stringify(facilities, null, 2);
                     
-                    fs.writeFile('./subFacilities.json', jsonString, err => {
+                    fs.writeFile('./data/subFacilities.json', jsonString, err => {
                         if (err) {
                             console.log("Error writing file", err);
                         } else {
@@ -121,15 +121,6 @@ class Facility {
         this.selector = '#cbo_nn_unitImages_' + this.num + ' > div.card-header.unit__link-bar--horizontal > a';
         this.script = script;
         this.subFacilities = [];
-    }
-}
-
-class SubFacility extends Facility {
-    constructor(name, description, script, date) {
-        super(name, description, script);
-        //this.selector = '#cbo_nn_unitImages_' + super.script.match(/(\d+)/)[0] + ' > div.card-header.unit__link-bar--horizontal > a';
-        //this.parentSelector = super.selector;
-        //this.date = date;
     }
 }
 
