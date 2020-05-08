@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Armstrong Student Center",
+    "description": "Located in the center of campus,  get anything you want from burgers and shakes to stir-fry to pizza to custom smoothies!",
+    "num": "1",
+    "selector": "#cbo_nn_unitImages_1 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(1);",
+    "subFacilities": []
+  },
+  {
+    "name": "Haines",
+    "description": "Soups, salads and sandwiches, breakfast sandwiches and coffee.",
+    "num": "3",
+    "selector": "#cbo_nn_unitImages_3 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(3);",
+    "subFacilities": []
+  },
+  {
+    "name": "Pulley Diner",
+    "description": "Step back in time to this 1950s-style diner, open 24/7. The menu includes favorites like burgers, chicken tenders and milkshakes.",
+    "num": "4",
+    "selector": "#cbo_nn_unitImages_4 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(4);",
+    "subFacilities": []
+  },
+  {
+    "name": "Sundial Pizza",
+    "description": "Grab a pizza slice, a whole pie prepared in our stone oven or an express pasta. You can now order custom calzones, pizzas and pasta through GET.",
+    "num": "5",
+    "selector": "#cbo_nn_unitImages_5 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(5);",
+    "subFacilities": []
+  },
+  {
+    "name": "Sundial UPE",
+    "description": "Fresh sandwiches, salads, and snacks made and packaged at Miami's Demske culinary Support Center.",
+    "num": "6",
+    "selector": "#cbo_nn_unitImages_6 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(6);",
+    "subFacilities": []
+  },
+  {
+    "name": "Sumeshi",
+    "description": "Featuring Hand Rolled Sushi",
+    "num": "7",
+    "selector": "#cbo_nn_unitImages_7 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(7);",
+    "subFacilities": []
+  },
+  {
+    "name": "Mein Street & StrEATS",
+    "description": "Featuring an oversized Teppanyaki grill, select a protein, vegetable blend and sauce to create your own stir fry. Wing Bar where you can get wings hand-tossed in the sauce of your choice, along with chicken sandwiches, mozzarella sticks and more!",
+    "num": "8",
+    "selector": "#cbo_nn_unitImages_8 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(8);",
+    "subFacilities": []
+  },
+  {
+    "name": "Toasted Bagel",
+    "description": "Your favorite home-style meats and sides with the occasional menu twist to keep you coming back for more.",
+    "num": "9",
+    "selector": "#cbo_nn_unitImages_9 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(9);",
+    "subFacilities": []
+  },
+  {
+    "name": "Cafe Lux",
+    "description": "Envision the perfect cup of coffee in an European-inspired venue. Accompany your drink with a rotating selection of pastries, soups, and sandwiches.",
+    "num": "10",
+    "selector": "#cbo_nn_unitImages_10 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(10);",
+    "subFacilities": []
+  },
+  {
+    "name": "Bell Tower Commons",
+    "description": "A combination of buffet and market. Buffet features salads, soup, pasta, pizza, burgers, chicken, stir fry, tacos, burritos, and bakery items. Grab a custom sandwich or coffee from the market!",
+    "num": "11",
+    "selector": "#cbo_nn_unitImages_11 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(11);",
+    "subFacilities": []
+  },
+  {
+    "name": "Dividend$",
+    "description": "Located in the Farmer School of Business, Dividends, a popular lunchtime location, offers five unique menu options.",
+    "num": "19",
+    "selector": "#cbo_nn_unitImages_19 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(19);",
+    "subFacilities": []
+  },
+  {
+    "name": "Garden Commons",
+    "description": "Take a trip through the seasons while you experience the beauty of Miami’s campus with an extensive menu to match! This buffet location features four stations including Asian, Italian, and comfort favorites.",
+    "num": "27",
+    "selector": "#cbo_nn_unitImages_27 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(27);",
+    "subFacilities": []
+  },
+  {
+    "name": "King Cafe",
+    "description": "Take a break from studying to grab a quick meal or recharge with caffeine at King Café. Conveniently located inside of King Library, this location offers students a quick and easy way to purchase food, coffee beverages, or smoothies.",
+    "num": "34",
+    "selector": "#cbo_nn_unitImages_34 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(34);",
+    "subFacilities": []
+  },
+  {
+    "name": "Market Street at MacCracken",
+    "description": "The largest of our campus convenience markets, Market Street at MacCracken has everything you need to stock your fridge or pantry, entertain friends, or grab a meal on the go. Common toiletries, health & beauty items, and medications are also available.",
+    "num": "39",
+    "selector": "#cbo_nn_unitImages_39 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(39);",
+    "subFacilities": []
+  },
+  {
+    "name": "Martin Dining Commons",
+    "description": "Dine-in at the buffet with popular concepts like Ciao Italian favorites, Harvest Greens salad and fruit bar, and  healthy-conscious Winning Seasonings.",
+    "num": "42",
+    "selector": "#cbo_nn_unitImages_42 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(42);",
+    "subFacilities": []
+  },
+  {
+    "name": "Maplestreet Commons",
+    "description": "One of our biggest buffets offering everything from made-to-order stir fry to a salsa and hummus bar. Don't forget about favorites such as pizza, pasta, grill items, and our Southwest station.",
+    "num": "51",
+    "selector": "#cbo_nn_unitImages_51 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(51);",
+    "subFacilities": []
+  },
+  {
+    "name": "Western Dining Commons",
+    "description": "Recognized as one of the top 36 Dining Halls in the country, Western Dining Commons brings you everything you could want—a buffet, market, and a tea house.",
+    "num": "62",
+    "selector": "#cbo_nn_unitImages_62 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(62);",
+    "subFacilities": []
+  },
+  {
+    "name": "Regional Campus Dining",
+    "description": "Miami Dining is proud to serve the regional campuses in Hamilton and Middletown. Both campus feature a coffee concept and a made-to-order meal concepts.",
+    "num": "68",
+    "selector": "#cbo_nn_unitImages_68 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(68);",
+    "subFacilities": []
+  },
+  {
+    "name": "Mporium",
+    "description": "Stop at this campus market for a quick snack and coffee or stock your pantry.",
+    "num": "73",
+    "selector": "#cbo_nn_unitImages_73 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(73);",
+    "subFacilities": []
+  },
+  {
+    "name": "MacCracken Market",
+    "description": "",
+    "num": "74",
+    "selector": "#cbo_nn_unitImages_74 > div.card-header.unit__link-bar--horizontal > a",
+    "script": "javascript:NetNutrition.UI.unitsSelectUnit(74);",
+    "subFacilities": []
+  }
+]
