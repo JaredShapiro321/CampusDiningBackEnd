@@ -5,6 +5,8 @@ const fs = require("fs");
 const nightmare = Nightmare({ show: true });
 const url = "https://miaminutrition.miamioh.edu/NetNutrition/MU";
 
+const Facility = require("./objects/Facility");
+
 // Request and pull data from base html
 
 let facilities = [];
@@ -202,61 +204,4 @@ function compare(a, b) {
         comparison = -1;
     }
     return comparison;
-}
-
-// Object Definitions
-
-/*
- * Facility : A facility object
- * name : The name of the facility
- * description : The description of the facility
- * script : The script to access the facility
- * subfacilities : An array of subfacilities
- */
-class Facility {
-    constructor(name, description, script, defaultImageURL) {
-        this.name = name;
-        this.description = description;
-        this.id = script.match(/(\d+)/)[0];
-        this.selector =
-            "#cbo_nn_unitImages_" +
-            this.id +
-            " > div.card-header.unit__link-bar--horizontal > a";
-        this.script = script;
-        // this.defaultImageURL = defaultImageURL;
-        this.subFacilities = [];
-    }
-}
-
-class FoodDate {
-    constructor(date, time) {
-        this.date = date;
-        this.time = time;
-    }
-}
-
-class Time {
-    constructor(num) {
-        switch (num) {
-            case 0:
-                this.display = "All Day";
-                break;
-            case 1:
-                this.display = "Breakfast";
-                break;
-            case 2:
-                this.display = "Lunch";
-                break;
-            case 3:
-                this.display = "Dinner";
-                break;
-            case 4:
-                this.display = "Lunch + Dinner";
-                break;
-            default:
-                this.display = "IDK";
-                break;
-        }
-        this.num = num;
-    }
 }

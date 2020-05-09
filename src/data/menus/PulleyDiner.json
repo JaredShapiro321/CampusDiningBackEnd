@@ -1,0 +1,1365 @@
+[
+  {
+    "name": "Salted Caramel Milkshake",
+    "type": "Limited Time Offer",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "shake 16 oz"
+  },
+  {
+    "name": "Mozarella Cheese Sticks",
+    "type": "Appetizer",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "5 Sticks"
+  },
+  {
+    "name": "Chicken Tenders",
+    "type": "Appetizer",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Poultry",
+      "Wheat"
+    ],
+    "servingSize": "3 Strips"
+  },
+  {
+    "name": "Roasted Roma Tomato Soup",
+    "type": "Soup",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "Miami Chunky Chili",
+    "type": "Soup",
+    "allergyInfo": [
+      "Animal by-product",
+      "Beef (U)"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "Saltine Crackers",
+    "type": "Soup",
+    "allergyInfo": [
+      "Gluten",
+      "Soy",
+      "Wheat",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "packet 2ct"
+  },
+  {
+    "name": "Chicken & Waffles",
+    "type": "Entree",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Poultry",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 entree"
+  },
+  {
+    "name": "Chocolate Chip Pancakes",
+    "type": "Entree",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "3 Pancakes"
+  },
+  {
+    "name": "Blueberry Pancakes",
+    "type": "Entree",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "3 Pancakes"
+  },
+  {
+    "name": "Oreo Pancakes",
+    "type": "Entree",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "3 Pancakes"
+  },
+  {
+    "name": "Biscuit",
+    "type": "Entree",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1 Biscuit"
+  },
+  {
+    "name": "Ribeye Steak",
+    "type": "Entree",
+    "allergyInfo": [
+      "Beef (U)",
+      "Soy"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "ASC Pancakes Cinnamon Chip",
+    "type": "Entree",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "3 Pancakes"
+  },
+  {
+    "name": "Buttermilk Pancakes",
+    "type": "Entree",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "3 Pancakes"
+  },
+  {
+    "name": "Egg Omelet",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Omelet"
+  },
+  {
+    "name": "Swiss Cheese",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Shredded American Cheese",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Bacon Bits",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Pork (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Fresh Sliced Mushrooms",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Diced Yellow Onions",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Diced Green & Red Peppers",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Fresh Stemless Spinach",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Fresh Diced Tomatoes",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Salsa/Picante Sauce",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "2 oz portion"
+  },
+  {
+    "name": "Real Sour Cream",
+    "type": "Omelet Bar",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "2oz Portion"
+  },
+  {
+    "name": "Meatlover's Burger",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Beef (U)",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Pork (U)",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "California Burger",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Beef (U)",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Fried Fish Sandwich",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Fish",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 sandwich"
+  },
+  {
+    "name": "Brunch Burger",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Beef (U)",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Pork (U)",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 burger"
+  },
+  {
+    "name": "The Q Pulled Pork Sandwich",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Pork (U)",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "BLT Sandwich",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Gluten",
+      "Pork (U)",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Grilled Chicken Sandwich",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Poultry",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Spicy Chicken Sandwich",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Poultry",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Chicken Tenders",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Poultry",
+      "Wheat"
+    ],
+    "servingSize": "4 Strips"
+  },
+  {
+    "name": "Single Hamburger",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Beef (U)",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Double Hamburger",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Beef (U)",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Traditional Cheeseburger",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Beef (U)",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Double Cheeseburger",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Beef (U)",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Vegan Burger",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Gluten",
+      "Soy",
+      "Wheat",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Bacon",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Pork (U)",
+      "Soy"
+    ],
+    "servingSize": "3 Pieces"
+  },
+  {
+    "name": "Bacon Cheeseburger",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Beef (U)",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Pork (U)",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "American Cheese",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1 slice"
+  },
+  {
+    "name": "White Bun",
+    "type": "Sandwich",
+    "allergyInfo": [
+      "Gluten",
+      "Soy",
+      "Wheat",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Each"
+  },
+  {
+    "name": "Macaroni & Cheese",
+    "type": "Sides",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "4oz portion"
+  },
+  {
+    "name": "California Vegetable Blend",
+    "type": "Sides",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "4oz Side Dish"
+  },
+  {
+    "name": "Salt & Pepper Fries",
+    "type": "Sides",
+    "allergyInfo": [
+      "Soy",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "4oz Side Dish"
+  },
+  {
+    "name": "Garden Side Salad",
+    "type": "Sides",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "Side Salad"
+  },
+  {
+    "name": "Fruit Cup",
+    "type": "Sides",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "Bacon",
+    "type": "Sides",
+    "allergyInfo": [
+      "Pork (U)",
+      "Soy"
+    ],
+    "servingSize": "3 Pieces"
+  },
+  {
+    "name": "Sausage Patties",
+    "type": "Sides",
+    "allergyInfo": [
+      "Pork (U)",
+      "Soy"
+    ],
+    "servingSize": "2 Patties"
+  },
+  {
+    "name": "Turkey Sausage Patties",
+    "type": "Sides",
+    "allergyInfo": [
+      "Poultry",
+      "Soy"
+    ],
+    "servingSize": "2 Patties"
+  },
+  {
+    "name": "Fried Eggs",
+    "type": "Sides",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "2 Eggs"
+  },
+  {
+    "name": "Hash  Brown Potatoes",
+    "type": "Sides",
+    "allergyInfo": [
+      "Soy",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "4oz Portion"
+  },
+  {
+    "name": "Plain Toast",
+    "type": "Sides",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "2 Slices"
+  },
+  {
+    "name": "Scrambled Eggs",
+    "type": "Sides",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "3.5 ounce portion"
+  },
+  {
+    "name": "Sandwich Croissant",
+    "type": "Sides",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Croissant"
+  },
+  {
+    "name": "Egg, Cheese, & Meat Breakfast Sandwich",
+    "type": "Sides",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Pork (U)",
+      "Poultry",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "1 Sandwich"
+  },
+  {
+    "name": "Whipped Butter",
+    "type": "Sides",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": ".5 ounce"
+  },
+  {
+    "name": "Entree Garden Salad",
+    "type": "Salad Bar",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "Salad"
+  },
+  {
+    "name": "Spinach & Bacon Chef Salad",
+    "type": "Salad Bar",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Pork (U)"
+    ],
+    "servingSize": "Entree Salad"
+  },
+  {
+    "name": "Caesar Salad",
+    "type": "Salad Bar",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Fish",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "entree salad"
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "type": "Salad Bar",
+    "allergyInfo": [
+      "Poultry"
+    ],
+    "servingSize": "4oz Portion"
+  },
+  {
+    "name": "Chicken Tenders",
+    "type": "Salad Bar",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Poultry",
+      "Wheat"
+    ],
+    "servingSize": "2 strips"
+  },
+  {
+    "name": "Dill Pickle Slices",
+    "type": "Toppings",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1oz Portion"
+  },
+  {
+    "name": "Sliced Tomatoes",
+    "type": "Toppings",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "2 Slices"
+  },
+  {
+    "name": "Red Onion Slivers",
+    "type": "Toppings",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Ketchup",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Soy",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Yellow Mustard",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "BBQ Sauce",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Soy",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "2 oz portion"
+  },
+  {
+    "name": "Texas Pete Hot Sauce",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Soy",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Heinz 57 Steak Sauce",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Soy",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Topping 1 oz"
+  },
+  {
+    "name": "A-1 Steak Sauce",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Topping 1 oz"
+  },
+  {
+    "name": "Side of Marinara Sauce",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "2oz portion"
+  },
+  {
+    "name": "Sweet N Sour Sauce",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "2oz Portion"
+  },
+  {
+    "name": "Assorted Smuckers Jelly Packets",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Packet"
+  },
+  {
+    "name": "Syrup",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1oz Packet"
+  },
+  {
+    "name": "Sugar Free Pancake Syrup",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1oz Packet"
+  },
+  {
+    "name": "Homemade Buttermilk Ranch Dressing",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Milk",
+      "Soy"
+    ],
+    "servingSize": "2oz Portion"
+  },
+  {
+    "name": "Blue Cheese Dressing",
+    "type": "Condiments",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Milk",
+      "Soy"
+    ],
+    "servingSize": "2oz Portion"
+  },
+  {
+    "name": "Toasted Roll Milkshake",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "shake 16 oz"
+  },
+  {
+    "name": "ASC Pancakes Cinnamon Chip",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "3 Pancakes"
+  },
+  {
+    "name": "Topping Twix Crushed",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Topping Kit Kat Crushed",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Rainbow Sprinkles",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Gluten",
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "topping 1 oz"
+  },
+  {
+    "name": "Whipped Topping",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "dollop 2 oz"
+  },
+  {
+    "name": "Chocolate Syrup",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Caramel Sauce",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Gluten",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "IC Bulk Chocolate Chip Tuffys",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "8oz Portion4 ounces"
+  },
+  {
+    "name": "Vanilla Ice Cream Sugar Free",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "Strawberry Ice Cream",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "IC Bulk Red Brick Bliss Tuffys",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "Chocolate Ice Cream",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "Cake Batter Ice Cream",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "8oz Portion"
+  },
+  {
+    "name": "Toasted Roll",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1 Roll"
+  },
+  {
+    "name": "Three Layer Chocolate Cake",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1/14 cake"
+  },
+  {
+    "name": "Lattice Apple Pie",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Gluten",
+      "Soy",
+      "Wheat",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1/8 pie"
+  },
+  {
+    "name": "Cream Soda Float",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk"
+    ],
+    "servingSize": "1 float"
+  },
+  {
+    "name": "Root Beer Float",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk"
+    ],
+    "servingSize": "1 float"
+  },
+  {
+    "name": "Build Your Own Milkshake",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "16oz Drink"
+  },
+  {
+    "name": "Build Your Own Milkshake",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "24 oz drink"
+  },
+  {
+    "name": "Crumbled OreoTopping",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Gluten",
+      "Soy",
+      "Wheat",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1oz Portion"
+  },
+  {
+    "name": "Brownie",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Processed with Nuts",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Chocolate Chip Pancakes",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "3 Pancakes"
+  },
+  {
+    "name": "Pretzel Pieces",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Gluten",
+      "Soy",
+      "Wheat",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Semi-Sweet Chocolate Chips",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Edible Cookie Dough",
+    "type": "Dessert",
+    "allergyInfo": [
+      "Animal by-product",
+      "Gluten",
+      "Milk",
+      "Soy",
+      "Wheat"
+    ],
+    "servingSize": "Ounce"
+  },
+  {
+    "name": "Rooted Grounds Coffee",
+    "type": "Beverage",
+    "allergyInfo": [],
+    "servingSize": "16 oz coffee"
+  },
+  {
+    "name": "/Bev Dole Juice Apple 100% 15.2oz",
+    "type": "Beverage",
+    "allergyInfo": [
+      "Vegan (U)"
+    ],
+    "servingSize": "Bottle"
+  },
+  {
+    "name": "/Bev OS Cranberry Juice 15.2oz",
+    "type": "Beverage",
+    "allergyInfo": [],
+    "servingSize": "Bottle"
+  },
+  {
+    "name": "Teavana Chai",
+    "type": "Beverage",
+    "allergyInfo": [
+      "Vegetarian (U)"
+    ],
+    "servingSize": "Bag"
+  },
+  {
+    "name": "2% Milk",
+    "type": "Beverage",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "cup 8 oz"
+  },
+  {
+    "name": "Chocolate Milk",
+    "type": "Beverage",
+    "allergyInfo": [
+      "Animal by-product",
+      "Milk",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "cup 8 oz"
+  },
+  {
+    "name": "/Bev OS Juice CranGrape 15.2oz",
+    "type": "Beverage",
+    "allergyInfo": [],
+    "servingSize": "Bottle"
+  },
+  {
+    "name": "/Bev Dole Juice Orange 100% 15.2oz",
+    "type": "Beverage",
+    "allergyInfo": [
+      "Vegan (U)"
+    ],
+    "servingSize": "Bottle"
+  },
+  {
+    "name": "Vegan Nuggets",
+    "type": "Available Upon Request",
+    "allergyInfo": [
+      "Gluten",
+      "Soy",
+      "Wheat",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "5 Nuggets"
+  },
+  {
+    "name": "Gluten Free White Bread",
+    "type": "Available Upon Request",
+    "allergyInfo": [
+      "Soy",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "2 Slice Package"
+  },
+  {
+    "name": "Gluten Free Blueberry Muffin",
+    "type": "Available Upon Request",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "1 Muffin"
+  },
+  {
+    "name": "Baked Straight Cut Fries",
+    "type": "Available Upon Request",
+    "allergyInfo": [
+      "Soy",
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "4oz Side Dish"
+  },
+  {
+    "name": "Enjoy Life Chocolate Chip Cookie",
+    "type": "Available Upon Request",
+    "allergyInfo": [
+      "Vegan (U)",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "package"
+  },
+  {
+    "name": "Scrambled Egg Whites",
+    "type": "Available Upon Request",
+    "allergyInfo": [
+      "Animal by-product",
+      "Eggs",
+      "Soy",
+      "Vegetarian (U)"
+    ],
+    "servingSize": "4.5oz Portion"
+  }
+]
